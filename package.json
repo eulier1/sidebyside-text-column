@@ -4,7 +4,7 @@
   "description": "output side by side text column (naive approach)",
   "main": "sidebyside.js",
   "scripts": {
-    "output": "node sidebyside.js",
+    "outputtest": "node ./sidebyside.js content/poetry/basho_rexroth.txt content/poetry/basho_chilcott.txt -c 4",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Eulier González",
