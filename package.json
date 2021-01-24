@@ -1,0 +1,12 @@
+{
+  "name": "sidebyside-text-column",
+  "version": "1.0.0",
+  "description": "output side by side text column (naive approach)",
+  "main": "sidebyside.js",
+  "scripts": {
+    "output": "node sidebyside.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eulier González",
+  "type": "module"
+}

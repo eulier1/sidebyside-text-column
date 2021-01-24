@@ -1,0 +1,1 @@
+# A simple text side by side output in node.js (as a diff)
